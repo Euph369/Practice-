@@ -8,7 +8,7 @@ class StyledBodyText extends StatelessWidget {
   Widget build(BuildContext context) {
     return Text(text, style: TextStyle(
 
-      color: Colors.brown[900],
+      color: const Color.fromARGB(255, 213, 79, 171),
       fontWeight: FontWeight.bold, 
       fontSize: 18,
     ),);

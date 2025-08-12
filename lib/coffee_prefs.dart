@@ -1,4 +1,4 @@
-import 'package:coffee_card/styled_body_text.dart';
+import 'package:coffee_card/x.dart';
 import 'package:coffee_card/styled_button.dart';
 import 'package:flutter/material.dart';
 

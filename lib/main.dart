@@ -1,5 +1,5 @@
 import 'package:coffee_card/coffee_prefs.dart';
-import 'package:coffee_card/styled_body_text.dart';
+import 'package:coffee_card/x.dart';
 import 'package:flutter/material.dart';
 
 void main() {
